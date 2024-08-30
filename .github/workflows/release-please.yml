@@ -23,4 +23,4 @@ jobs:
       - name: Release Please
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        run: npx release-please github-release --release-type node
+        run: npx release-please github-release --release-type node --repo-url=EduNunesGithub/URLs-Shortener
