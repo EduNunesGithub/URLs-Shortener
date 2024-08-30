@@ -1,0 +1,6 @@
+{
+  "endOfLine": "crlf",
+  "experimentalTernaries": true,
+  "semi": true,
+  "singleAttributePerLine": true
+}
